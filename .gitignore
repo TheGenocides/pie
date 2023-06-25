@@ -1,3 +1,7 @@
 main.py
 poetry.lock
 pyproject.toml
+venv
+.breakpoints
+.replit
+__pycache__
