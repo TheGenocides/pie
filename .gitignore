@@ -6,3 +6,4 @@ venv
 .replit
 __pycache__
 .config
+replit.nix
